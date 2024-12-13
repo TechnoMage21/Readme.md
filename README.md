@@ -20,9 +20,10 @@ Here are some of the tools and technologies I'm working with:
 - **Tools**: [Xampp, Git, VS Code, etc.]
 - **Documentation**: [Ms Word]
 
-## 📈 My Stats
+## 📈 My Favourite Programming Languages
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=TechnoMage21&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=TechnoMage21&show_icons=true&hide_title=true&hide_border=true&layout=compact&theme=radical)
+
 
 
 ## 🌍 Find Me Online
