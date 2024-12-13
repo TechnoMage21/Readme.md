@@ -1,11 +1,11 @@
 # Welcome to My Profile
 
-Hi there! 👋 Welcome to my profile. I'm Om Gupta, a passionate Web Devlopment who loves to do fronted development stuff. Whether you're here to check out my work, collaborate on a project, or learn more about me, I'm glad you're here!
+Hi there! 👋 Welcome to my profile. I'm Om Gupta, a passionate Web Devlopment who loves to do Fronted Development Project's. Whether you're here to check out my work, collaborate on a project, or learn more about me, I'm glad you're here!
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on: Update Soon
-- 🌱 I’m learning: React(Learning), Fronted Development, Laravel(Start Soon)
+- 🔭 I’m currently working on: Updated Soon
+- 🌱 I’m learning: Fronted Development, Laravel(Starting Soon)
 - 👯 I’m looking to collaborate on: Web Development Stuff
 - 💬 Ask me about: Web Dev, SQL ,Web Design, Basic Encryption
 - 📫 How to reach me: [[LinkedIn]](https://www.linkedin.com/in/om-gupta-a54747319/)
