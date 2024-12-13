@@ -24,6 +24,7 @@ Here are some of the tools and technologies I'm working with:
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=TechnoMage21&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=radical)
 
+
 ## 🌍 Find Me Online
 
 - [LinkedIn](https://www.linkedin.com/in/om-gupta-a54747319/)
