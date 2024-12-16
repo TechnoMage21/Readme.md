@@ -1,45 +1,46 @@
-# Welcome to My Profile
+# Welcome to My Profile! 👋
 
-Hi there! 👋 Welcome to my profile. I'm Om Gupta, a passionate Web Devlopment who loves to do Fronted Development Project's. Whether you're here to check out my work, collaborate on a project, or learn more about me, I'm glad you're here!
+Hi, I’m **Om Gupta** – a passionate Web Developer with a love for **Frontend Development**. Whether you're here to explore my work, collaborate on exciting projects, or just want to know more about me, I’m happy you stopped by!
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on: Updated Soon
-- 🌱 I’m learning: Fronted Development, Laravel(Starting Soon)
-- 👯 I’m looking to collaborate on: Web Development Stuff
-- 💬 Ask me about: Web Dev, SQL ,Web Design, Basic Encryption
-- 📫 How to reach me: [[LinkedIn]](https://www.linkedin.com/in/om-gupta-a54747319/)
+- 🔭 **Currently working on**: Updating my personal website and exploring new frameworks.
+- 🌱 **Learning**: Frontend Development (React), diving into **Laravel** soon!
+- 👯 **Looking to collaborate on**: Web Development projects, especially Frontend & UI/UX.
+- 💬 **Ask me about**: Web Development, SQL, Web Design, Basic Encryption, and more!
+- 📫 **How to reach me**: Connect with me on [LinkedIn](https://www.linkedin.com/in/om-gupta-a54747319/).
 
 ## 💻 Skills & Technologies
 
-Here are some of the tools and technologies I'm working with:
+Here’s a quick overview of the tools and technologies I’m currently working with:
 
-- **Languages**: [C, Java, Python, HTML, PHP, JS]
-- **Frameworks/Libraries**: [React(Learning).]
-- **Databases**: [MySQL]
-- **Tools**: [Xampp, Git, VS Code, etc.]
-- **Documentation**: [Ms Word]
+- **Languages**: C, Java, Python, HTML, PHP, JavaScript
+- **Frameworks/Libraries**: React (Learning), Laravel (Coming soon)
+- **Databases**: MySQL
+- **Tools**: XAMPP, Git, VS Code, and more.
+- **Documentation**: Microsoft Word (for project documentation)
 
 ## 📈 My Favourite Programming Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=TechnoMage21&show_icons=true&hide_title=true&hide_border=true&layout=compact&theme=radical)
 
-
-
 ## 🌍 Find Me Online
 
 - [LinkedIn](https://www.linkedin.com/in/om-gupta-a54747319/)
-- [Personal Website](https://technomage21.github.io/Portfolio/)
-
+- [Personal Portfolio Website](https://technomage21.github.io/Portfolio/)
+- [GitHub](https://github.com/TechnoMage21)
 
 ## 📫 How to Reach Me
 
-Feel free to reach out if you'd like to collaborate, chat about tech, or just say hello! You can contact me at:
+I’d love to connect! Feel free to message me for collaboration, tech talks, or just a friendly chat. You can reach out to me via:
 
-- 📬 DM me on [Linkedin] ([om-gupta-a54747319])
+- 📬 DM me on [LinkedIn](https://www.linkedin.com/in/om-gupta-a54747319/)
 
-## 🤝 Support
+## 🤝 Support & Contributions
 
-If you enjoy my projects or find them helpful, feel free to give them a ⭐️ on GitHub! Your support means a lot and motivates me to keep improving and sharing my work.
+If you like my work, consider starring my projects on GitHub! It means a lot and keeps me motivated to continue improving and sharing my code with the community.
 
-Thanks for visiting! 😊
+---
+
+Thank you for visiting my profile, and I look forward to connecting with you soon! 😊
+
