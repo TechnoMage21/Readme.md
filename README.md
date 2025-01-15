@@ -1,4 +1,5 @@
-![images](https://github.com/user-attachments/assets/2270f558-e554-4f90-8f29-da17f63ef490)
+![53fad0_ac69d4888b8a496597d713946d3d068c~mv2](https://github.com/user-attachments/assets/1726301d-8755-4bdd-9b2a-4b722d444fa6)
+
 
 # Welcome to My Profile! 👋
 
