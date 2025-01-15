@@ -1,3 +1,5 @@
+![images](https://github.com/user-attachments/assets/2270f558-e554-4f90-8f29-da17f63ef490)
+
 # Welcome to My Profile! 👋
 
 Hi, I’m **Om Gupta** – a passionate Web Developer with a love for **Frontend Development**. Whether you're here to explore my work, collaborate on exciting projects, or just want to know more about me, I’m happy you stopped by!
