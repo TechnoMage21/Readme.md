@@ -3,12 +3,12 @@
 
 # Welcome to My Profile! 👋
 
-Hi, I’m **Om Gupta** – a passionate Web Developer with a love for **Frontend Development**. Whether you're here to explore my work, collaborate on exciting projects, or just want to know more about me, I’m happy you stopped by!
+Hi, I’m **Om Gupta** – a passionate Web Developer with a love for **Full Stack Software Developer**. Whether you're here to explore my work, collaborate on exciting projects, or just want to know more about me, I’m happy you stopped by!
 
 ## 🚀 About Me
 
 - 🔭 **Currently working on**: Updating my personal website and exploring new frameworks.
-- 🌱 **Learning**: Frontend Development (React), diving into **Laravel** soon!
+- 🌱 **Learning**: Frontend Development (React), Boostrap
 - 👯 **Looking to collaborate on**: Web Development projects, especially Frontend & UI/UX.
 - 💬 **Ask me about**: Web Development, SQL, Web Design, Basic Encryption, and more!
 - 📫 **How to reach me**: Connect with me on [LinkedIn](https://www.linkedin.com/in/om-gupta-a54747319/).
@@ -17,11 +17,10 @@ Hi, I’m **Om Gupta** – a passionate Web Developer with a love for **Frontend
 
 Here’s a quick overview of the tools and technologies I’m currently working with:
 
-- **Languages**: C, Java, Python, HTML, PHP, JavaScript
-- **Frameworks/Libraries**: React (Learning), Laravel (Coming soon)
-- **Databases**: MySQL
+- **Languages**: C, C++, Python, HTML, PHP, JavaScript
+- **Frameworks/Libraries**: React (Frontend), Boostrap
 - **Tools**: XAMPP, Git, VS Code, and more.
-- **Documentation**: Microsoft Word (for project documentation)
+- **Documentation**: Microsoft Word (
 
 ## 📈 My Favourite Programming Languages
 
