@@ -1,26 +1,23 @@
-![53fad0_ac69d4888b8a496597d713946d3d068c~mv2](https://github.com/user-attachments/assets/1726301d-8755-4bdd-9b2a-4b722d444fa6)
-
-
 # Welcome to My Profile! 👋
 
-Hi, I’m **Om Gupta** – a passionate Web Developer with a love for **Full Stack Software Developer**. Whether you're here to explore my work, collaborate on exciting projects, or just want to know more about me, I’m happy you stopped by!
+Hi, I’m **Om Gupta**, a passionate **Full Stack Web Developer** with a deep love for coding and creating impactful web experiences. Whether you're here to explore my projects, collaborate on something exciting, or learn more about my work, I’m thrilled you stopped by!
 
 ## 🚀 About Me
 
-- 🔭 **Currently working on**: Updating my personal website and exploring new frameworks.
-- 🌱 **Learning**: Frontend Development (React), Boostrap
-- 👯 **Looking to collaborate on**: Web Development projects, especially Frontend & UI/UX.
+- 🔭 **Currently working on**: Updating my personal website and diving deeper into modern frameworks and tools.
+- 🌱 **Learning**: React for Frontend Development, exploring Bootstrap for UI styling, and sharpening my problem-solving skills.
+- 👯 **Looking to collaborate on**: Web development projects, particularly Frontend/UI/UX, and any tech-driven challenges!
 - 💬 **Ask me about**: Web Development, SQL, Web Design, Basic Encryption, and more!
-- 📫 **How to reach me**: Connect with me on [LinkedIn](https://www.linkedin.com/in/om-gupta-a54747319/).
+- 📫 **How to reach me**: Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/om-gupta-a54747319/), and let’s chat!
 
 ## 💻 Skills & Technologies
 
-Here’s a quick overview of the tools and technologies I’m currently working with:
+Here’s a quick rundown of the technologies I work with:
 
 - **Languages**: C, C++, Python, HTML, PHP, JavaScript
-- **Frameworks/Libraries**: React (Frontend), Boostrap
-- **Tools**: XAMPP, Git, VS Code, and more.
-- **Documentation**: Microsoft Word (
+- **Frameworks & Libraries**: React (Frontend), Bootstrap (UI Styling)
+- **Tools**: XAMPP, Git, VS Code, Postman, and more.
+- **Documentation**: Microsoft Word, Markdown
 
 ## 📈 My Favourite Programming Languages
 
@@ -29,14 +26,15 @@ Here’s a quick overview of the tools and technologies I’m currently working 
 ## 🌍 Find Me Online
 
 - [LinkedIn](https://www.linkedin.com/in/om-gupta-a54747319/)
-- [Personal Portfolio Website](https://technomage21.github.io/Portfolio2.0/))
+- [Personal Portfolio Website](https://technomage21.github.io/Portfolio2.0/)
 - [GitHub](https://github.com/TechnoMage21)
 
-## 📫 How to Reach Me
+## 📬 How to Reach Me
 
-I’d love to connect! Feel free to message me for collaboration, tech talks, or just a friendly chat. You can reach out to me via:
+I’m always open to new connections! Whether it's for collaboration, tech talks, or just friendly discussions, feel free to reach out:
 
-- 📬 DM me on [LinkedIn](https://www.linkedin.com/in/om-gupta-a54747319/)
+- 📬 **DM me on [LinkedIn](https://www.linkedin.com/in/om-gupta-a54747319/)** or hit me up through my other links.
+
 
 ## 🤝 Support & Contributions
 
