@@ -18,8 +18,8 @@ Here’s a quick rundown of the technologies I work with:
 
 - **Languages**: C, C++, Python, HTML, PHP, JavaScript
 - **Frameworks & Libraries**: React (Frontend), Bootstrap (UI Styling)
-- **Tools**: XAMPP, Git, VS Code, Postman, and more.
-- **Documentation**: Microsoft Word, Markdown
+- **Tools**: XAMPP, Git, VS Code, Microsoft excel, & Matplotlib Libary.
+- **Documentation**: Microsoft Word, Microsoft Powerpoint(Presentation)
 
 ## 📈 My Favourite Programming Languages
 
