@@ -1,6 +1,6 @@
 # Welcome to My Profile! 👋
 
-![Profile Image](https://github.com/user-attachments/assets/1726301d-8755-4bdd-9b2a-4b722d444fa6)
+
 
 Hi, I’m **Om Gupta**, a passionate **Full Stack Web Developer** with a deep love for coding and creating impactful web experiences. Whether you're here to explore my projects, collaborate on something exciting, or learn more about my work, I’m thrilled you stopped by!
 
