@@ -28,7 +28,6 @@ Here’s a quick rundown of the technologies I work with:
 ## 🌍 Find Me Online
 
 - [LinkedIn](https://www.linkedin.com/in/om-gupta-a54747319/)
-- [Personal Portfolio Website](https://technomage21.github.io/Portfolio2.0/)
 - [GitHub](https://github.com/TechnoMage21)
 
 ## 📬 How to Reach Me
